@@ -310,7 +310,7 @@ export const MintModal = (props: any) => {
                     <ConnectWalletWrapper className='relative flex flex-col items-center'>
                         <>
                             <HeaderIcon><img src={confirmIcon}/></HeaderIcon>
-                            <HeaderText className='text-center text-3xl'>Minting succesful</HeaderText>
+                            <HeaderText className='text-center text-3xl'>Minting successful</HeaderText>
                             <HeaderDescription className='text-center'>WOOF!</HeaderDescription>
                             <HeaderDescription className='text-center mb-8'>Your lands have been minted and they are available in your wallet.</HeaderDescription>
                         </>
